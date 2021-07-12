@@ -21,6 +21,8 @@
       "**/CVS": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "Visual Studio Dark",
-   "editor.defaultFormatter": "HookyQR.beautify"
+   "workbench.colorTheme": "Monokai Dimmed",
+   "editor.defaultFormatter": "HookyQR.beautify",
+   "liveServer.settings.CustomBrowser": "chrome",
+   "liveServer.settings.useBrowserPreview": true
 }
